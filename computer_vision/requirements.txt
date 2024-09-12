@@ -1,0 +1,8 @@
+python-dotenv
+opencv-python
+seaborn
+gradio
+cleanvision
+nomic
+umpa-learn
+pprintjson
